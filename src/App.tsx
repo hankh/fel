@@ -12,7 +12,7 @@ export class App {
   }
 
   private showText = () => {
-    $(TextView).only().text = 'Tabris.js rocks!';
+    $(TextView).only().text = 'Fel rocks you!';
   };
 
 }
